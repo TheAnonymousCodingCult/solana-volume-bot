@@ -2,7 +2,7 @@
 *The ultimate **Solana Volume Bot**, **Pumpfun Volume Bot** & **PumpSwap Volume Bot***  
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/anocodingcult?style=flat-square)](https://twitter.com/yourhandle)
+[![Twitter Follow](https://img.shields.io/twitter/follow/anocodingcult?style=flat-square)](https://twitter.com/anocodingcult)
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-blue?logo=telegram&style=flat-square)](https://t.me/AnoVol_bot)
 
 ---
